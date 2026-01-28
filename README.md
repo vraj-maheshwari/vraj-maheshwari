@@ -1,18 +1,161 @@
-# 💫 About Me:
-# Hi 👋, I'm Vraj Maheshwari  <br><br>🚀 Passionate Software Developer | AI/ML Enthusiast | Cybersecurity Learner  <br><br>Final-year **B.Tech student in Agricultural Information Technology** with a strong foundation in software development.  <br>I love building **real-world applications**, exploring **AI/ML**, and working on **secure & scalable systems**.<br><br>---<br><br>## 🔭 Currently<br>- 🎓 Final-year student at **College of Agricultural Information Technology, AAU, Anand**<br>- 🌱 Learning **MERN Stack** & advanced **AI systems**<br>- 💼 Actively seeking **Software Developer / IT roles**<br>- 🎯 Goal: Grow into a **leadership role** in tech<br><br>---<br><br>## 🛠️ Technical Skills<br><br>### 👨‍💻 Programming Languages<br>![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)<br>![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge)<br>![C](https://img.shields.io/badge/C-blue?style=for-the-badge)<br>![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)<br><br>### 📚 Libraries & Tools<br>- Pandas, NumPy, Matplotlib  <br>- Scikit-learn, OpenCV, Selenium  <br>- Flask, Laravel  <br>- Git, GitHub  <br><br>### 🗄️ Databases<br>- MySQL<br>- SQL Server<br>- MongoDB<br><br>### ⚙️ Platforms & Tools<br>- VS Code<br>- XAMPP<br>- HopScotch<br><br>---<br><br>## 💼 Experience<br>**Trainee – Code Crafters Program**  <br>📍 *Sarjen Systems Pvt. Ltd., Ahmedabad*  <br>🗓️ *Apr–May 2025 (Weekends)*  <br><br>- Hands-on training in **HTML, CSS, JavaScript, React.js**<br>- Real-time tasks & peer collaboration<br>- Mentored by industry professionals<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🔹 Leave Application Management System<br>- Web-based system for students & admins<br>- SMTP email notifications to parents<br>- Secure backend with SQL Server<br>- IP logging for enhanced security  <br>🔗 [View Project](https://github.com/vraj-maheshwari/leaveapplication)<br><br>---<br><br>### 🔹 Face Recognition Based Attendance System (AI/ML)<br>- YOLO + OpenCV based real-time face detection<br>- KNN / InsightFace embeddings<br>- Flask web dashboard<br>- Secure attendance storage in SQL Server  <br>🔗 [View Project](https://github.com/vraj-maheshwari/facial_recognisation_based_attendance_system)<br><br>---<br><br>### 🔹 Chatbot Backend (AI)<br>- Flask + MERN backend APIs<br>- ChromaDB + Sentence Transformers<br>- Together AI LLM fallback integration  <br>🔗 [View Project](https://github.com/vraj-maheshwari/chatbot_backend_prj)<br><br>---<br><br>### 🔹 Network & Security Tools<br>- **Windows Port Scanner** (CLI + GUI, multi-threaded)<br>- **LAN Scanner Pro** (Subnet scan, reports export)<br><br>---<br><br>## 📊 GitHub Stats<br>![Vraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vraj-maheshwari&show_icons=true&theme=radical)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vraj-maheshwari&layout=compact&theme=radical)<br><br>---<br><br>## 🏆 Achievements & Activities<br>- 🥇 Gold Medalist – 4x100m Relay (University Athletics Meet)<br>- 🎖️ NCC ‘A’ Certificate Holder<br>- 🧠 Google Student Ambassador (2025–Present)<br>- 🏆 National Hackathon Participant – MITS, Gwalior<br>- 🤝 Certified NSS Volunteer<br><br>---<br><br>## 📜 Certifications<br>- Data Structures & Algorithms – Apna College  <br>- Generative AI & Prompt Engineering – Sololearn  <br>- Cybersecurity Analyst Virtual Internship – TCS  <br>- Application of AI/ML Models – ISRO  <br>- Python, Java – Sololearn  <br>- SQL – HackerRank  <br><br>---<br><br>## 📫 Connect With Me<br>- 💼 LinkedIn: [Vraj Maheshwari](http://www.linkedin.com/in/vraj-maheshwari-6537ba278)<br>- 🌐 Portfolio: https://vraj-maheshwari.github.io/portfolio/<br>- 📧 Email: vrajmaheshwari06@gmail.com<br>- 🧑‍💻 GitHub: https://github.com/vraj-maheshwari<br><br>---<br><br>⭐ *If you like my work, feel free to star my repositories!*  <br>
+# 💫 About Me
+Hi 👋, I'm **Vraj Maheshwari**  
 
+🚀 Passionate Software Developer | AI/ML Enthusiast | Cybersecurity Learner  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vrajuu06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vraj-maheshwari-6537ba278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vrajmaheshwari06@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vraj-maheshwari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vraj-maheshwari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vraj-maheshwari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Final-year **B.Tech student in Agricultural Information Technology** with a strong foundation in software development.  
+I love building **real-world applications**, exploring **AI/ML**, and working on **secure & scalable systems**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vraj-maheshwari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 Currently
+- 🎓 Final-year student at **College of Agricultural Information Technology, AAU, Anand**  
+- 🌱 Learning **MERN Stack** & advanced **AI systems**  
+- 💼 Actively seeking **Software Developer / IT roles**  
+- 🎯 Goal: Grow into a **leadership role** in tech
+
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge) 
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge) 
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge) 
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
+
+### 📚 Libraries & Tools
+- Pandas, NumPy, Matplotlib  
+- Scikit-learn, OpenCV, Selenium  
+- Flask, Laravel  
+- Git, GitHub  
+
+### 🗄️ Databases
+- MySQL, SQL Server, MongoDB
+
+### ⚙️ Platforms & IDEs
+- VS Code, XAMPP, HopScotch
+
+---
+
+## 💼 Experience
+
+### **Trainee – Code Crafters Program**  
+📍 *Sarjen Systems Pvt. Ltd., Ahmedabad*  
+🗓️ *Apr–May 2025 (Weekends)*  
+
+- Hands-on training in **HTML, CSS, JavaScript, React.js**  
+- Real-time tasks & peer collaboration  
+- Mentored by industry professionals  
+
+### **Software Developer Intern – Brain Bean Technolabs**  
+📍 *Brain Bean Technolabs*  
+🗓️ *Dec 2025 – Present*  
+
+- Currently working on a **Database Chatbot project**  
+- Developing backend APIs and managing data flow  
+- Applying AI/ML techniques for smarter responses  
+- Collaborating with team members on software solutions  
+
+---
+
+
+## 🚀 Featured Projects
+
+### 🔹 Leave Application Management System
+- Web-based system for students & admins  
+- SMTP email notifications to parents  
+- Secure backend with SQL Server  
+- IP logging for enhanced security  
+🔗 [View Project](https://github.com/vraj-maheshwari/leaveapplication)  
+
+### 🔹 Face Recognition Attendance System (AI/ML)
+- YOLO + OpenCV real-time face detection  
+- KNN / InsightFace embeddings  
+- Flask web dashboard  
+- Secure attendance storage in SQL Server  
+🔗 [View Project](https://github.com/vraj-maheshwari/facial_recognisation_based_attendance_system)  
+
+### 🔹 Chatbot Backend (AI)
+- Flask + MERN backend APIs  
+- ChromaDB + Sentence Transformers  
+- Together AI LLM fallback integration  
+🔗 [View Project](https://github.com/vraj-maheshwari/chatbot_backend_prj)  
+
+### 🔹 Network & Security Tools
+- **Windows Port Scanner** (CLI + GUI, multi-threaded)  
+- **LAN Scanner Pro** (Subnet scan, reports export)  
+
+---
+
+## 📊 GitHub Stats
+![Vraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vraj-maheshwari&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vraj-maheshwari&layout=compact&theme=radical)
+
+---
+
+## 🏆 Achievements & Activities
+- 🥇 Gold Medalist – 4x100m Relay (University Athletics Meet)  
+- 🎖️ NCC ‘A’ Certificate Holder  
+- 🧠 Google Student Ambassador (2025–Present)  
+- 🏆 National Hackathon Participant – MITS, Gwalior  
+- 🤝 Certified NSS Volunteer  
+
+---
+
+## 📜 Certifications
+
+- **Code Crafters – Next Gen Development Program** – Sarjen Systems Pvt. Ltd.  
+- **Python Programming** – Sololearn  
+- **Data Structures & Algorithms** – Apna College  
+- **Prompt Engineering** – Sololearn  
+- **Remote Sensing & Digital Image Analysis** – ISRO  
+- **Java Programming** – Sololearn  
+- **LLM (Large Language Models)** – Microsoft  
+- **Generative AI** – Sololearn  
+- **Geodata Processing Using Python & Machine Learning** – ISRO  
+- **Application of AI/ML Models for Crop Acreage Mapping** – ISRO  
+- **Cybersecurity Analyst Job Simulation** – Tata Forage  
+- **Remote Sensing** – ISRO  
+- **National Hackathon Participant** – MITS, Gwalior  
+- **SQL** – HackerRank  
+- **Data Analyst Job Simulation** – Deloitte  
+
+---
+
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](http://www.linkedin.com/in/vraj-maheshwari-6537ba278)  
+- 🌐 [Portfolio](https://vraj-maheshwari.github.io/portfolio/)  
+- 📧 Email: vrajmaheshwari06@gmail.com  
+- 🧑‍💻 [GitHub](https://github.com/vraj-maheshwari)  
+
+---
+
+⭐ *If you like my work, feel free to star my repositories!*  
+
+---
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vrajuu06) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vraj-maheshwari-6537ba278) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vrajmaheshwari06@gmail.com)  
+
+---
+
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=vraj-maheshwari&color=blueviolet)
