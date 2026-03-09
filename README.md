@@ -23,7 +23,7 @@ I love building **real-world applications**, exploring **AI/ML**, and working on
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge) 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge) 
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
-![Larevel](https://img.shields.io/badge/Laravel-Framework-red)
+![Larevel](https://img.shields.io/badge/Laravel-Framework-red?style=for-the-badge)
 
 ### 📚 Libraries & Tools
 - Pandas, NumPy, Matplotlib  
