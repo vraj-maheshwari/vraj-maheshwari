@@ -89,6 +89,9 @@ I love building **real-world applications**, exploring **AI/ML**, and working on
 
 ---
 
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/vraj-maheshwari/vraj-maheshwari/output/github-contribution-grid-snake.svg)
+
 ## 📊 GitHub Stats
 ![Vraj's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vraj-maheshwari&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vraj-maheshwari&layout=compact&theme=radical)
