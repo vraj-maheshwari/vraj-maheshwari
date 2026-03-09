@@ -91,7 +91,7 @@ I love building **real-world applications**, exploring **AI/ML**, and working on
 
 ## 📊 GitHub Stats
 ![Vraj's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vraj-maheshwari&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vraj-maheshwari&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vraj-maheshwari&layout=compact&theme=radical)
 
 ## 📈 GitHub Commit Graph
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vraj-maheshwari&theme=green-ice)
