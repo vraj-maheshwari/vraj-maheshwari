@@ -96,6 +96,8 @@ I love building **real-world applications**, exploring **AI/ML**, and working on
 ## 📈 GitHub Commit Graph
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vraj-maheshwari&theme=green-ice)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vraj-maheshwari&theme=github)
+
 ---
 
 ## 🏆 Achievements & Activities
