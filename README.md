@@ -51,12 +51,18 @@ I love building **real-world applications**, exploring **AI/ML**, and working on
 
 ### **Software Developer Intern – Brain Bean Technolabs**  
 📍 *Brain Bean Technolabs*  
-🗓️ *Dec 2025 – Present*  
+🗓️ *Dec 2025 – jun 2026*  
 
 - Currently working on a **Database Chatbot project**  
 - Developing backend APIs and managing data flow  
 - Applying AI/ML techniques for smarter responses  
-- Collaborating with team members on software solutions  
+- Collaborating with team members on software solutions
+
+### **Associate Software Engineer  – Mobio Solutions**  
+📍 *Mobio solutions*  
+🗓️ *jun 2026 – present*  
+
+- Currently working on a **Genrative AI department**  
 
 ---
 
