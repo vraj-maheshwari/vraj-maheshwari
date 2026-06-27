@@ -3,7 +3,7 @@ Hi 👋, I'm **Vraj Maheshwari**
 
 🚀 Passionate Software Developer | AI/ML Enthusiast | Cybersecurity Learner  
 
-Final-year **B.Tech student in Agricultural Information Technology** with a strong foundation in software development.  
+ **B.Tech student in Information Technology** with a strong foundation in software development.  
 I love building **real-world applications**, exploring **AI/ML**, and working on **secure & scalable systems**.
 
 ---
